@@ -1,7 +1,7 @@
 Koru Game Launcher
 # Descargar:
 
-1- Descarga installer.exe
+1- Descarga installer.exe si tu dispositivo es windows o KoruGame Launcher.mobileconfig si es ios o macos
 
 2-Ábrelo
 
